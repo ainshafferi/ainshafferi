@@ -1,9 +1,31 @@
 ## Hi there 👋
 
-<!--
-**ainshafferi/ainshafferi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A aspiring developer passionate about backend development and building practical software solutions.
 
-Here are some ideas to get you started:
+# 👨‍💻 About Me
+🎓 Education: Universiti Putra Malaysia
+💼 Interested in: Backend Development / AI
+🎯 Goal: Build meaningful projects that solve real-world problems and continuously improve my development skills.
+
+# 🚀 Currently Working On
+📌 Project: Shopify App
+🛠️ Learning: React | Node.js | JavaScript | PostgreSQL
+📖 Exploring: E-commerce
+
+# 🧰 Tech Stack
+
+Languages:
+Java | Python | 
+
+Frameworks & Libraries:
+TensorFlow | PyTorch | Scikit-learn
+
+Tools & Platforms:
+Git | GitHub | VS Code | Kaggle | Anaconda |
+
+<!--
+📫 Connect With Me
+💼 LinkedIn: [Your LinkedIn]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
