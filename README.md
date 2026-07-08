@@ -2,20 +2,20 @@
 
 A aspiring developer passionate about backend development and building practical software solutions.
 
-# 👨‍💻 About Me
+### 👨‍💻 About Me
 🎓 Education: Universiti Putra Malaysia
 💼 Interested in: Backend Development / AI
 🎯 Goal: Build meaningful projects that solve real-world problems and continuously improve my development skills.
 
-# 🚀 Currently Working On
+### 🚀 Currently Working On
 📌 Project: Shopify App
 🛠️ Learning: React | Node.js | JavaScript | PostgreSQL
 📖 Exploring: E-commerce
 
-# 🧰 Tech Stack
+### 🧰 Tech Stack
 
 Languages:
-Java | Python | 
+Java | Python
 
 Frameworks & Libraries:
 TensorFlow | PyTorch | Scikit-learn
