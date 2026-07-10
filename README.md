@@ -1,25 +1,32 @@
 ## Hi there 👋
 
-A aspiring developer passionate about backend development and building practical software solutions.
+# Hi there 👋
+
+I'm an aspiring developer passionate about frontend development and building practical software solutions.
+
+I also have a foundation in machine learning and AI, which has given me an appreciation for intelligent systems. Recently, however, I've found myself drawn to frontend development, where I enjoy crafting intuitive, responsive, and visually appealing user experiences.
+
+I'm always eager to learn new technologies, take on interesting projects, and continue growing as a developer.
+
 
 ### 👨‍💻 About Me
 🎓 Education: Universiti Putra Malaysia
 
-💼 Interested in: Backend Development / AI
+💼 Interested in: Fronted Development / AI
 
 🎯 Goal: Build meaningful projects that solve real-world problems and continuously improve my development skills.
 
+
 ### 🚀 Currently Working On
-📌 Project: Shopify App
+📖 Exploring: Fronted Development especially on React
 
-🛠️ Learning: React | Node.js | JavaScript | PostgreSQL
+🛠️ Learning: React | Node.js | JavaScript
 
-📖 Exploring: E-commerce
 
 ### 🧰 Tech Stack
 
 Languages:
-Java | Python
+Java | Python | HTML | CSS
 
 Frameworks & Libraries:
 TensorFlow | PyTorch | Scikit-learn
