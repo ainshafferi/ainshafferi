@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋
 
 I'm an aspiring developer passionate about frontend development and building practical software solutions.
